@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1416519748 source:/home/pigeon/Documents/Complexity/tp_complexity_sorting/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1416522120 source:/home/pigeon/Documents/Complexity/tp_complexity_sorting/sort.c
+
